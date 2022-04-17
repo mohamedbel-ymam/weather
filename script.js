@@ -51,7 +51,7 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Khouribga");
+  weather.fetchWeather("Casablanca");
 
 
 
